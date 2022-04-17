@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Netflix", "Netflix\Netflix.csproj", "{FAC7BD97-1FF4-4FC2-AF93-8DDB13355ABD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{953D38FF-5BE7-4B34-B32D-C11B87F1A527}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{13A980CD-83E4-4B00-8F01-5D4FBEB22EA1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,13 @@ Global
 		{FAC7BD97-1FF4-4FC2-AF93-8DDB13355ABD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FAC7BD97-1FF4-4FC2-AF93-8DDB13355ABD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FAC7BD97-1FF4-4FC2-AF93-8DDB13355ABD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{953D38FF-5BE7-4B34-B32D-C11B87F1A527}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{953D38FF-5BE7-4B34-B32D-C11B87F1A527}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{953D38FF-5BE7-4B34-B32D-C11B87F1A527}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{953D38FF-5BE7-4B34-B32D-C11B87F1A527}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13A980CD-83E4-4B00-8F01-5D4FBEB22EA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13A980CD-83E4-4B00-8F01-5D4FBEB22EA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13A980CD-83E4-4B00-8F01-5D4FBEB22EA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13A980CD-83E4-4B00-8F01-5D4FBEB22EA1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
