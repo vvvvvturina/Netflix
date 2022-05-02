@@ -804,26 +804,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Владислава\\.nuget\\packages\\": {}
+    "/Users/zheltikov/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Владислава\\RiderProjects\\Netflix\\Entities\\Entities.csproj",
+      "projectUniqueName": "/Users/zheltikov/Documents/GitHub/Netflix/Entities/Entities.csproj",
       "projectName": "Entities",
-      "projectPath": "C:\\Users\\Владислава\\RiderProjects\\Netflix\\Entities\\Entities.csproj",
-      "packagesPath": "C:\\Users\\Владислава\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Владислава\\RiderProjects\\Netflix\\Entities\\obj\\",
+      "projectPath": "/Users/zheltikov/Documents/GitHub/Netflix/Entities/Entities.csproj",
+      "packagesPath": "/Users/zheltikov/.nuget/packages/",
+      "outputPath": "/Users/zheltikov/Documents/GitHub/Netflix/Entities/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Владислава\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/zheltikov/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -874,7 +872,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
       }
     }
   }

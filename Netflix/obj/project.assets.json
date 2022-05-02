@@ -10327,34 +10327,32 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Владислава\\.nuget\\packages\\": {}
+    "/Users/zheltikov/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Владислава\\RiderProjects\\Netflix\\Netflix\\Netflix.csproj",
+      "projectUniqueName": "/Users/zheltikov/Documents/GitHub/Netflix/Netflix/Netflix.csproj",
       "projectName": "Netflix",
-      "projectPath": "C:\\Users\\Владислава\\RiderProjects\\Netflix\\Netflix\\Netflix.csproj",
-      "packagesPath": "C:\\Users\\Владислава\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Владислава\\RiderProjects\\Netflix\\Netflix\\obj\\",
+      "projectPath": "/Users/zheltikov/Documents/GitHub/Netflix/Netflix/Netflix.csproj",
+      "packagesPath": "/Users/zheltikov/.nuget/packages/",
+      "outputPath": "/Users/zheltikov/Documents/GitHub/Netflix/Netflix/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Владислава\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/zheltikov/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Владислава\\RiderProjects\\Netflix\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\Users\\Владислава\\RiderProjects\\Netflix\\DataAccess\\DataAccess.csproj"
+            "/Users/zheltikov/Documents/GitHub/Netflix/DataAccess/DataAccess.csproj": {
+              "projectPath": "/Users/zheltikov/Documents/GitHub/Netflix/DataAccess/DataAccess.csproj"
             }
           }
         }
@@ -10414,7 +10412,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
       }
     }
   }
