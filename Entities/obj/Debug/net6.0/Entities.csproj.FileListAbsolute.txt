@@ -26,3 +26,17 @@ C:/Users/Владислава/RiderProjects/Netflix/Entities/obj/Debug/net6.0/En
 /Users/zheltikov/Documents/GitHub/Netflix/Entities/obj/Debug/net6.0/ref/Entities.dll
 /Users/zheltikov/Documents/GitHub/Netflix/Entities/obj/Debug/net6.0/Entities.pdb
 /Users/zheltikov/Documents/GitHub/Netflix/Entities/obj/Debug/net6.0/Entities.genruntimeconfig.cache
+D:\GitProjects\Netflix\Entities\bin\Debug\net6.0\Entities.deps.json
+D:\GitProjects\Netflix\Entities\bin\Debug\net6.0\Entities.runtimeconfig.json
+D:\GitProjects\Netflix\Entities\bin\Debug\net6.0\Entities.dll
+D:\GitProjects\Netflix\Entities\bin\Debug\net6.0\ref\Entities.dll
+D:\GitProjects\Netflix\Entities\bin\Debug\net6.0\Entities.pdb
+D:\GitProjects\Netflix\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+D:\GitProjects\Netflix\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitProjects\Netflix\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+D:\GitProjects\Netflix\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+D:\GitProjects\Netflix\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+D:\GitProjects\Netflix\Entities\obj\Debug\net6.0\Entities.dll
+D:\GitProjects\Netflix\Entities\obj\Debug\net6.0\ref\Entities.dll
+D:\GitProjects\Netflix\Entities\obj\Debug\net6.0\Entities.pdb
+D:\GitProjects\Netflix\Entities\obj\Debug\net6.0\Entities.genruntimeconfig.cache

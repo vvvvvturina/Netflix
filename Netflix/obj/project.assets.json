@@ -10327,19 +10327,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/zheltikov/.nuget/packages/": {}
+    "C:\\Users\\sahib\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/zheltikov/Documents/GitHub/Netflix/Netflix/Netflix.csproj",
+      "projectUniqueName": "D:\\GitProjects\\Netflix\\Netflix\\Netflix.csproj",
       "projectName": "Netflix",
-      "projectPath": "/Users/zheltikov/Documents/GitHub/Netflix/Netflix/Netflix.csproj",
-      "packagesPath": "/Users/zheltikov/.nuget/packages/",
-      "outputPath": "/Users/zheltikov/Documents/GitHub/Netflix/Netflix/obj/",
+      "projectPath": "D:\\GitProjects\\Netflix\\Netflix\\Netflix.csproj",
+      "packagesPath": "C:\\Users\\sahib\\.nuget\\packages\\",
+      "outputPath": "D:\\GitProjects\\Netflix\\Netflix\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/zheltikov/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\sahib\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -10351,8 +10351,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/Users/zheltikov/Documents/GitHub/Netflix/DataAccess/DataAccess.csproj": {
-              "projectPath": "/Users/zheltikov/Documents/GitHub/Netflix/DataAccess/DataAccess.csproj"
+            "D:\\GitProjects\\Netflix\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "D:\\GitProjects\\Netflix\\DataAccess\\DataAccess.csproj"
             }
           }
         }
@@ -10412,7 +10412,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
